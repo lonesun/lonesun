@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-1. One advantage of hiring me to work for your company is that I will still be learning, reading, and building understanding of your company's techstack (preferred programming language, conventionally used libraries, etc.) through my own initiative and as part of my involvement in constant further self-improvement.
+1. One advantage of hiring me to work for your company is that I will still be learning, reading, and building understanding of your company's tech stack (preferred programming language, conventionally used libraries, etc.) through my own initiative and as part of my involvement in constant further self-improvement.
 <!--
 **lonesun/lonesun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
