@@ -1,7 +1,9 @@
-## Hi there 👋
+## Keynotes
 
 1. One advantage of hiring me to work for your company is that I will still be learning, reading, and building understanding of your company's tech stack (preferred programming language, conventionally used libraries, etc.) through my own initiative and as part of my involvement in constant further self-improvement.
-2. Another benefit of hiring me is that I have a very solid command of the English language, itself honed even more so by my German language studies, which is needed for iterating swiftly and precisely on any problem.    
+
+2. Another benefit of hiring me is that I have a very solid command of the English language, itself honed even more so by my German language studies, which is needed for iterating swiftly and precisely on any problem.
+
 3. I regard LLM technology neutrally, and recognise that its goodness or badness will be based entirely on how it is used. As far as "brain atrophy" is concerned, I work my brain out still with the challenge of staging commits cleanly and logically followably, and developed my own Neovim plugin to facilitate that.
 <!--
 **lonesun/lonesun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
