@@ -4,7 +4,7 @@ I'm a self-taught developer with a knack for language, which I am finding delive
 
 Before I became interested in coding, I grew up with a solid command of the English language and later acquired a good degree of German language proficiency, which I find gives me a leg up in these so-called "AI times". I started out being LLM-unwilling, but now look to balance my natural preference for granular commits with the advantages of a sledgehammer.
 
-In the end, I strive to internalised and exercise good architectural principles and good custodial practices in my contributions to the open source society.
+In the end, I strive to internalise and exercise good architectural principles and good custodial practices in my contributions to the open source society, and I also try to think beyond short-term profits; whereas my projects cover a fairly broad gamut of languages by now, this is done to stage a foundation for my own future software development endeavours to pick up and further develop/fork with relative ease.
 
 ## Keynotes
 
