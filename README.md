@@ -1,6 +1,6 @@
 ## Who am I?
 
-I'm a self-taught developer with a knack for language, which I am finding delivers rewards very nicely — the knack for language part that is, not the being a self-taught developer. I'm self-taught because I live remotely, and am looking for a mentor befriend I look for a career.
+I'm a self-taught developer with a knack for language, which I am finding delivers rewards very nicely — the knack for language part that is, not the being a self-taught developer. I'm self-taught because I live remotely, and am looking for a mentor to befriend before I look for a career.
 
 Before I became interested in coding, I grew up with a solid command of the English language and later acquired a good degree of German language proficiency, which I find gives me a leg up in these so-called "AI times". I started out being LLM-unwilling, but now look to balance my natural preference for granular commits with the advantages of a sledgehammer.
 
